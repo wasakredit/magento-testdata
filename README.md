@@ -1,5 +1,8 @@
 # magento-testdata
+
 Just a small repository to hold the some magento db testdata
+
+Compress folders with command `tar -zcvf {tar.gz-name} {folder}`
 
 ## Files
 
